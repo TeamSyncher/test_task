@@ -74,9 +74,8 @@ void eventHandler::clientGone(const std::string& name, int time)
 	}
 	if (clientPc.find(name) == clientPc.end())
 	{
-		std::cout << "UB!!!\n";
+		std::cout << "UB!!!\nClient who isnt possesing PC is trying to go away\n";
 		std::abort();
-		return;
 	}
 	int idOfPc = clientPc[name];
 	pcs[idOfPc].popClient(time);
@@ -135,7 +134,7 @@ void eventHandler::clientGoneGen(const std::string& name, int time)
 	auto itm = clientPc.find(name);
 	if (its == inClub.end())
 	{
-		std::cout << "UB!!!!\n";
+		std::cout << "UB!!!!\nClient who isnt in club trying to go away (Gen)\n";
 		std::abort();
 	}
 	if (itm != clientPc.end())
@@ -153,7 +152,7 @@ void eventHandler::clientTakesPcGen(const std::string& name, int time, int idOfP
 {
 	if (pcs[idOfPc].isBusy())
 	{
-		std::cout << "UB!!!\n";
+		std::cout << "UB!!!\nClient trying to get busy PC (Gen)\n";
 		std::abort();
 	}
 	clientPc[name] = idOfPc;

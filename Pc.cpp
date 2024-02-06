@@ -6,7 +6,11 @@ bool Pc::isBusy() const { return busy; }
 
 void Pc::pushClient(const std::string& nameClient, int startTime)
 {
-	if (busy) throw "busy!!!";
+	if (busy)
+	{
+		std::cout << "UB!!!\nTrying to push client on busy PC\n";
+		std::abort();
+	}
 	busy = true;
 	curClient = nameClient;
 	curStart = startTime;
@@ -14,7 +18,11 @@ void Pc::pushClient(const std::string& nameClient, int startTime)
 
 void Pc::popClient(int endTime)
 {
-	if (!busy) throw "no client 2 pop!!!";
+	if (!busy)
+	{
+		std::cout << "UB!!!\nTrying to pop client on empty PC\n";
+		std::abort();
+	}
 	int sumTime = endTime - curStart;
 	time += sumTime;
 	sells += sumTime / 60 + static_cast<int>(sumTime % 60 != 0);

@@ -6,7 +6,7 @@ class pcPull
 {
 public:
 	using pull = std::vector<Pc>;
-	pcPull(int quan);
+	explicit pcPull(int quan);
 	pcPull(const pcPull& rhs) = delete;
 	pcPull& operator=(const pcPull& rhs) = delete;
 	~pcPull() = default;

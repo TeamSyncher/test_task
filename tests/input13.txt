@@ -1,17 +1,16 @@
-9
-07:28 10:34
-40
-00:04 1 Roberta
-00:15 3 Judith
-02:36 1 Jackie
-08:31 1 Judith
-09:48 1 Albert
-09:58 3 Allison
-11:26 4 Roberta
-12:08 3 Catherine
-17:40 1 Allison
-17:45 3 Roberta
-17:49 1 Cristina
-18:59 2 Catherine 5
-20:31 1 Martha
-22:42 2 Roberta 2
+48
+07:15 19:27
+13
+01:43 4 jean
+04:24 1 laurie
+04:51 2 suzanne 46
+05:43 3 jean
+06:14 3 suzanne
+08:04 3 dawn
+09:34 2 suzanne 21
+10:00 1 peggy
+14:54 2 zachary 18
+16:05 3 craig
+17:45 3 craig
+20:27 3 alice
+21:13 1 jean

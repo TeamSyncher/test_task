@@ -1,20 +1,24 @@
-33
-03:54 04:15
-16
-01:00 2 Stacy 14
-02:47 2 Walter 3
-03:12 2 Latoya 24
-05:16 2 Walter 24
-05:44 2 Sean 24
-08:21 3 Deborah
-08:52 3 Latoya
-09:28 3 Margaret
-11:01 2 Jerry 26
-13:38 4 Sean
-13:52 3 Marisa
-17:49 4 Russell
-18:03 4 Marisa
-18:19 1 Sue
-19:03 1 John
-22:53 4 Latoya
-23:25 1 Deborah
+29
+13:58 23:28
+22
+02:47 1 amber
+05:16 1 crystal
+05:44 4 tonya
+06:24 2 miranda 1
+08:21 1 tiffany
+08:52 4 tiffany
+09:16 1 amber
+11:01 4 dennis
+13:52 1 tonya
+15:56 4 crystal
+17:49 4 miranda
+18:03 1 crystal
+18:19 1 theresa
+18:52 3 amber
+19:13 4 crystal
+20:19 4 tiffany
+20:21 1 dennis
+22:10 3 miranda
+23:25 3 tiffany
+23:44 1 miranda
+23:50 2 leslie 23

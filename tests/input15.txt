@@ -1,17 +1,22 @@
-39
-13:02 14:16
-28
-01:25 1 Andrew
-09:02 4 Julie
-09:15 3 Angela
-11:32 1 Joanne
-12:31 1 Angela
-14:12 1 Shari
-14:17 1 Joanne
-15:10 4 Kaylee
-17:04 1 Angela
-17:50 4 Joanne
-18:31 1 Kaylee
-18:48 4 Jeffery
-21:07 1 Jeffery
-23:03 3 Andrew
+30
+12:31 17:50
+12
+00:30 2 vincent 16
+01:01 1 claudia
+03:34 4 tamara
+04:46 3 cynthia
+04:49 2 jeanne 5
+05:51 1 autumn
+06:47 1 larry
+07:01 4 tamara
+07:17 4 larry
+09:19 4 jeanne
+09:34 3 autumn
+09:55 2 vincent 2
+10:17 3 cynthia
+13:30 3 larry
+14:18 1 tristan
+15:34 1 kristina
+17:00 3 cynthia
+18:10 4 cynthia
+19:17 4 claudia

@@ -1,27 +1,26 @@
-5
-05:47 17:54
-19
-00:31 1 Kathryn
-03:24 1 Kathryn
-03:41 4 Kathryn
-04:23 4 Leah
-06:15 4 Hannah
-07:00 4 Kathryn
-07:45 2 Jeremy 2
-08:59 3 Jeremy
-10:42 4 Cassandra
-11:37 2 Jeremy 1
-13:22 4 Cassandra
-14:11 3 Jeremy
-15:10 3 Cassandra
-15:40 2 Cassandra 1
-15:41 2 Sheila 2
-15:51 1 Cassandra
-17:12 1 Leah
-19:01 2 Sheila 5
-19:59 3 Jeremy
-20:55 3 Cassandra
-21:45 4 Erica
-22:12 1 Leah
-23:31 1 Cassandra
-23:58 4 Leah
+43
+21:12 21:30
+36
+00:31 2 erica 12
+03:24 2 cassandra 23
+03:41 1 sheila
+04:23 1 jeanette
+06:15 1 leah
+07:00 4 anne
+07:45 3 sheila
+08:59 3 cassandra
+10:42 1 erica
+11:37 3 erica
+13:22 3 denise
+14:11 3 kiara
+15:10 4 noah
+15:40 1 erica
+15:41 1 stacy
+15:51 1 jeanette
+17:12 4 leah
+19:59 2 anna 24
+20:55 4 carol
+21:45 1 hannah
+22:12 2 jeremy 31
+23:31 2 erica 40
+23:58 3 jeffrey

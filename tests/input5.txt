@@ -1,27 +1,16 @@
-18
-00:51 11:39
-4
-00:39 1 Juan
-03:46 3 Randall
-05:28 1 April
-05:41 3 Stephen
-06:05 2 Kyle 9
-08:08 1 Kyle
-08:31 2 Mike 1
-08:58 2 Randall 8
-10:09 3 Briana
-10:48 4 Randall
-11:28 3 Caroline
-12:32 2 Kyle 9
-12:37 2 Mike 3
-14:58 3 Kyle
-15:39 4 Juan
-16:58 4 Briana
-17:32 3 Kimberly
-17:55 2 Stephen 14
-18:16 1 Kyle
-18:26 1 Mike
-18:40 1 Joshua
-21:21 2 Richard 8
-23:05 2 Jorge 14
-23:23 1 Roy
+3
+15:04 18:08
+8
+04:08 3 caroline
+06:15 4 kyle
+07:44 4 kyle
+10:37 3 caroline
+11:47 2 kimberly 3
+12:37 4 roy
+15:39 4 roy
+17:32 4 caroline
+17:55 4 charles
+21:21 3 charles
+22:44 4 kimberly
+22:45 3 charles
+23:05 1 jamie

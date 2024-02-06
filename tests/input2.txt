@@ -1,17 +1,30 @@
-27
-06:15 09:13
-46
-01:34 2 Scott 15
-02:23 2 Scott 14
-03:20 4 Thomas
-03:34 4 Krista
-04:21 3 Krista
-05:30 4 Krista
-07:47 2 Blake 10
-08:50 3 Blake
-09:05 4 Lisa
-09:22 3 Paul
-10:34 2 Nicole 4
-15:45 2 Nicole 20
-19:23 3 Blake
-23:18 1 Thomas
+31
+08:06 12:17
+49
+01:54 3 summer
+02:00 3 benjamin
+03:55 1 brian
+03:57 2 frank 7
+04:38 1 benjamin
+05:27 3 sharon
+06:15 4 brian
+07:02 4 beth
+07:41 4 sharon
+09:03 1 brian
+09:13 2 nicholas 23
+09:29 3 william
+10:07 1 sarah
+10:14 4 frank
+11:54 4 summer
+14:04 3 donald
+14:55 1 briana
+15:26 3 briana
+15:51 1 joseph
+15:58 3 adam
+16:51 4 alyssa
+17:21 2 donald 3
+17:56 4 thomas
+19:04 4 thomas
+20:14 3 john
+20:54 2 douglas 6
+21:14 3 adam

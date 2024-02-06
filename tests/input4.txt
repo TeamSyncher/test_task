@@ -1,14 +1,31 @@
-48
-15:25 16:56
-24
-00:20 2 Frederick 25
-05:44 3 Brandon
-06:42 1 Pamela
-07:54 4 Dominic
-11:31 2 Steve 28
-14:25 1 Brandon
-14:55 1 Brandon
-15:10 3 Peter
-18:47 3 Brandon
-19:18 2 Joel 9
-23:17 3 Robert
+50
+02:52 22:35
+11
+00:20 1 george
+00:26 1 frederick
+00:51 1 elizabeth
+01:24 4 ruth
+03:47 4 frederick
+03:51 3 dominic
+04:24 1 ruth
+05:35 1 brandon
+05:44 3 bill
+06:24 1 stephanie
+07:54 3 bruce
+08:04 3 george
+11:20 3 ruth
+11:31 3 amy
+11:39 3 dustin
+14:25 4 mark
+14:55 3 dominic
+15:10 1 james
+17:11 4 amy
+17:34 3 amy
+18:47 3 dustin
+19:18 3 brandon
+19:38 2 stephanie 47
+19:58 1 ruth
+20:13 2 peter 36
+20:49 1 ruth
+22:10 2 brandon 31
+23:54 3 james

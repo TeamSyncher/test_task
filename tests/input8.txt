@@ -1,22 +1,27 @@
-39
-15:15 23:34
-23
-01:24 2 Christine 29
-07:33 1 David
-07:55 4 Warren
-08:39 2 Veronica 13
-09:05 3 Warren
-09:20 2 Jessica 37
-09:27 1 Christine
-09:34 1 Christine
-10:09 2 Warren 26
-10:15 4 Veronica
-10:19 2 David 26
-10:38 3 Veronica
-13:27 4 David
-19:36 2 David 31
-20:37 2 David 25
-21:20 2 Christine 35
-21:27 3 Jessica
-22:45 1 Veronica
-23:44 2 Warren 13
+45
+19:01 23:34
+10
+00:14 4 justin
+01:19 1 cassie
+01:41 4 micheal
+01:56 1 jonathan
+02:02 4 jeffery
+05:07 1 jeffery
+05:26 2 jonathan 40
+05:32 3 micheal
+06:19 1 keith
+06:44 1 ashley
+07:14 1 jessica
+07:38 2 cassie 25
+09:53 1 ricky
+11:24 4 ashley
+12:19 3 ricky
+13:55 4 brandy
+16:13 4 ricky
+19:32 4 jeffery
+20:05 2 ivan 25
+22:09 3 jonathan
+22:23 2 jeffery 42
+23:03 1 jessica
+23:33 4 ashley
+23:42 1 jessica

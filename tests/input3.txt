@@ -1,31 +1,33 @@
-31
-17:45 21:42
-50
-00:11 3 Eric
-00:50 4 Danielle
-00:59 3 Mary
-01:25 2 Danielle 11
-02:16 4 Danielle
-02:17 3 Rebecca
-02:18 3 Jacqueline
-02:24 2 Jacqueline 17
-04:07 1 Rebecca
-08:09 4 Rebecca
-08:39 3 Jacqueline
-08:46 2 Danielle 11
-09:05 2 Danielle 20
-09:59 3 Rebecca
-10:18 4 Jacqueline
-11:10 1 Mary
-11:12 2 Eric 26
-16:48 4 Danielle
-17:27 1 Rebecca
-17:31 2 Mary 12
-17:43 1 Rebecca
-17:58 1 Rebecca
-19:39 1 Rebecca
-20:23 2 Mary 16
-21:04 4 Danielle
-21:16 4 Eric
-22:21 2 Eric 11
-23:52 2 Rebecca 16
+43
+02:23 10:34
+12
+00:11 3 eric
+00:42 1 diana
+00:50 2 rebecca 39
+00:59 4 laura
+02:17 4 diana
+02:18 2 david 35
+04:07 3 rebecca
+05:51 4 mary
+07:11 1 danielle
+07:51 3 david
+08:09 1 mary
+08:39 1 david
+08:46 2 sean 3
+09:18 4 maria
+09:59 2 eric 13
+10:18 4 mary
+10:29 3 kenneth
+11:10 2 maria 29
+11:12 2 kenneth 29
+15:09 3 chad
+15:25 1 kenneth
+16:34 4 mary
+16:56 1 kenneth
+17:31 3 laura
+17:58 1 ryan
+20:23 2 maria 8
+20:40 4 rebecca
+21:16 4 rebecca
+22:54 4 ryan
+23:52 1 kenneth

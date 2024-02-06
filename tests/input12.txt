@@ -1,14 +1,26 @@
-44
-19:13 23:44
-17
-06:57 3 Brandi
-09:32 3 Taylor
-09:38 3 Barbara
-10:30 3 Andre
-10:51 1 Ian
-13:19 3 Miguel
-14:40 1 Miguel
-15:54 4 Kristi
-19:41 1 Taylor
-23:12 1 Antonio
-23:37 4 Robin
+1
+21:51 21:57
+6
+00:03 3 nicole
+02:45 1 jose
+04:54 1 rita
+06:38 3 bryan
+06:59 4 stacey
+07:27 3 anthony
+07:28 3 cindy
+07:33 3 bryan
+09:05 2 chelsea 1
+10:25 3 katherine
+10:34 1 jerry
+11:44 2 nicole 1
+13:29 4 alex
+14:25 2 jason 1
+14:50 2 cindy 1
+14:53 1 jerome
+15:58 1 helen
+17:33 1 kelsey
+18:41 3 stacey
+19:27 3 jose
+22:27 3 stacey
+23:13 2 patricia 1
+23:55 2 jerome 1

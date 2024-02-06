@@ -74,8 +74,8 @@ void eventHandler::clientGone(const std::string& name, int time)
 	}
 	if (clientPc.find(name) == clientPc.end())
 	{
-		std::cout << "UB!!!\nClient who isnt possesing PC is trying to go away\n";
-		std::abort();
+		inClub.erase(name);
+		return;
 	}
 	int idOfPc = clientPc[name];
 	pcs[idOfPc].popClient(time);

@@ -14,8 +14,6 @@ using std::getline;
 using std::stoi;
 
 
-
-
 int main(int argc, char *argv[])
 {
 	if(argc != 2)

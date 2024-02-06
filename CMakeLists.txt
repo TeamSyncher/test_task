@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project (test1)
+project (pc_club_logger)
 
 set(CMAKE_CXX_STANDART 14)
 

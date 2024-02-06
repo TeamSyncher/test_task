@@ -1,0 +1,20 @@
+33
+03:54 04:15
+16
+01:00 2 Stacy 14
+02:47 2 Walter 3
+03:12 2 Latoya 24
+05:16 2 Walter 24
+05:44 2 Sean 24
+08:21 3 Deborah
+08:52 3 Latoya
+09:28 3 Margaret
+11:01 2 Jerry 26
+13:38 4 Sean
+13:52 3 Marisa
+17:49 4 Russell
+18:03 4 Marisa
+18:19 1 Sue
+19:03 1 John
+22:53 4 Latoya
+23:25 1 Deborah

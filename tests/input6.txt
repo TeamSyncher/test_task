@@ -1,0 +1,30 @@
+31
+06:38 23:20
+29
+02:02 1 Derrick
+03:55 2 Benjamin 9
+04:13 1 Carrie
+04:40 1 Vicki
+05:09 3 Ryan
+05:42 2 Manuel 29
+06:01 3 Jonathan
+06:43 4 Regina
+07:33 3 Helen
+08:58 1 Jonathan
+10:13 1 Cesar
+11:00 3 Helen
+12:23 2 Zachary 13
+13:16 2 Amanda 16
+13:52 3 Jeffrey
+15:49 2 Denise 12
+16:28 3 Katherine
+17:16 1 Terri
+17:32 2 Helen 19
+17:58 4 Manuel
+18:50 4 Francisco
+20:04 1 Helen
+21:25 1 Zachary
+21:35 3 Vicki
+22:23 4 Bridget
+22:26 2 Amanda 17
+23:17 2 Cesar 14

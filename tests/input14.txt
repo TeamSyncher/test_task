@@ -1,0 +1,33 @@
+32
+08:34 14:55
+9
+01:54 1 Jose
+02:18 1 Jose
+04:23 4 Randy
+04:24 2 Louis 24
+04:51 4 Jose
+05:43 3 Louis
+06:14 3 Christina
+06:54 2 Jose 3
+07:24 2 Christina 6
+07:42 2 Randy 8
+08:16 2 Darlene 18
+09:17 1 Jose
+09:21 2 Stacey 4
+09:29 2 Randy 11
+09:42 3 Christina
+10:00 3 Darlene
+12:03 4 Jose
+13:13 3 Christina
+13:24 4 Randy
+14:29 1 Darlene
+14:54 3 Jose
+15:46 4 Stacey
+16:05 3 Louis
+17:45 2 Dana 6
+18:40 2 Louis 19
+19:07 1 Stacey
+20:27 1 Christina
+21:13 4 Jose
+21:22 3 Stacey
+22:02 3 Darlene

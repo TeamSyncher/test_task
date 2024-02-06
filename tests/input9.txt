@@ -1,0 +1,27 @@
+12
+10:34 11:00
+2
+00:05 4 Tammy
+02:51 3 Curtis
+02:58 2 Grant 2
+03:17 2 Ricky 4
+04:25 2 Melanie 3
+04:26 4 Brenda
+06:38 3 Tony
+06:51 3 Sonya
+07:03 3 Curtis
+08:53 4 Ricky
+09:11 2 Emily 11
+10:46 2 Sonya 5
+11:34 1 Mindy
+11:41 2 Melanie 6
+13:17 3 Grant
+14:25 3 Carol
+15:27 2 Willie 4
+16:46 4 Sara
+17:03 3 Maria
+17:31 1 Dawn
+18:05 3 Kristen
+19:00 3 Carol
+19:42 4 Mindy
+20:49 4 Tony

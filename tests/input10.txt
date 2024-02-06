@@ -1,0 +1,24 @@
+29
+17:26 20:59
+31
+00:35 4 Sandra
+01:26 1 Jane
+01:32 1 Gabriel
+03:20 4 Alan
+04:25 2 Sandra 16
+05:41 4 Rachel
+05:43 1 Erin
+06:13 3 Alan
+06:31 1 Chelsea
+08:38 3 Roger
+09:28 3 Alan
+14:50 2 Roger 11
+15:19 1 Gabriel
+15:34 3 Tina
+16:17 2 Candace 2
+16:30 2 Samantha 12
+20:01 1 Cory
+21:24 3 Samantha
+21:44 3 Tina
+22:04 1 Teresa
+22:52 3 Renee

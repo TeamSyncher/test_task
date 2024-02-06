@@ -1,30 +1,69 @@
-31
-08:06 12:17
-49
-01:54 3 summer
-02:00 3 benjamin
-03:55 1 brian
-03:57 2 frank 7
-04:38 1 benjamin
-05:27 3 sharon
-06:15 4 brian
-07:02 4 beth
-07:41 4 sharon
-09:03 1 brian
-09:13 2 nicholas 23
-09:29 3 william
-10:07 1 sarah
-10:14 4 frank
-11:54 4 summer
-14:04 3 donald
-14:55 1 briana
-15:26 3 briana
-15:51 1 joseph
-15:58 3 adam
-16:51 4 alyssa
-17:21 2 donald 3
-17:56 4 thomas
-19:04 4 thomas
-20:14 3 john
-20:54 2 douglas 6
-21:14 3 adam
+4
+13:53 20:44
+7
+00:50 2 craig 3
+00:50 3 craig
+01:00 3 jennifer
+01:08 2 ashley 4
+01:24 2 ashley 2
+01:26 2 ashley 4
+01:27 2 brett 1
+01:28 4 brett
+01:41 2 brett 1
+01:51 3 craig
+01:58 2 jennifer 3
+02:45 4 craig
+02:50 2 ashley 2
+03:46 3 jennifer
+03:47 1 brett
+04:36 2 ashley 2
+05:23 4 brett
+05:50 1 jennifer
+06:27 2 ashley 1
+06:44 2 brett 2
+07:18 3 duane
+07:57 2 duane 2
+08:04 2 duane 2
+08:11 1 craig
+08:12 2 jennifer 2
+08:15 2 craig 3
+08:49 1 duane
+08:49 4 brett
+08:52 3 jennifer
+08:53 3 craig
+09:06 1 craig
+09:24 4 brett
+09:25 1 ashley
+09:50 4 duane
+10:22 4 craig
+11:17 1 craig
+11:46 2 brett 3
+11:48 1 ashley
+11:57 3 craig
+12:20 1 ashley
+13:06 4 brett
+13:17 4 duane
+14:00 2 ashley 2
+15:06 1 craig
+15:15 2 brett 1
+15:36 3 craig
+15:45 1 craig
+16:04 3 jennifer
+16:04 3 ashley
+16:12 3 brett
+16:34 3 ashley
+17:16 3 duane
+17:21 3 ashley
+17:35 2 craig 3
+17:51 1 brett
+17:55 4 craig
+18:01 2 duane 4
+18:06 3 ashley
+18:08 1 craig
+19:19 3 ashley
+19:20 1 jennifer
+19:27 3 craig
+19:28 1 jennifer
+19:34 4 craig
+19:53 4 brett
+19:56 4 craig

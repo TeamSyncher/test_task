@@ -1,16 +1,31 @@
-3
-15:04 18:08
-8
-04:08 3 caroline
-06:15 4 kyle
-07:44 4 kyle
-10:37 3 caroline
-11:47 2 kimberly 3
-12:37 4 roy
-15:39 4 roy
-17:32 4 caroline
-17:55 4 charles
-21:21 3 charles
-22:44 4 kimberly
-22:45 3 charles
-23:05 1 jamie
+5
+04:03 17:56
+9
+00:24 3 christina
+01:44 1 mark
+02:20 3 brittany
+03:17 4 matthew
+03:19 3 jacob
+03:22 1 brittany
+03:47 1 christina
+04:14 3 brittany
+04:54 4 brittany
+05:03 2 mark 4
+05:23 2 omar 5
+05:28 4 matthew
+06:09 3 jacob
+06:30 3 omar
+07:19 4 matthew
+10:46 1 jacob
+10:56 1 mark
+11:16 1 christina
+11:32 1 brittany
+11:48 4 matthew
+11:51 3 jacob
+11:57 3 mark
+13:14 2 christina 2
+14:40 4 christina
+14:59 1 christina
+16:54 4 brittany
+17:35 4 brittany
+17:49 3 christina

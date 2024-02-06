@@ -1,26 +1,61 @@
-38
-14:16 16:26
-14
-00:17 1 gerald
-00:35 1 colin
-02:10 1 philip
-03:20 3 colin
-03:40 1 barbara
-03:56 4 sara
-04:25 3 samantha
-05:15 1 allison
-06:31 4 taylor
-06:47 2 victoria 11
-07:13 3 dorothy
-08:38 1 catherine
-10:56 2 erin 30
-11:06 3 phyllis
-11:45 3 jorge
-13:30 4 brittany
-14:36 2 allison 6
-16:30 3 gerald
-17:08 2 victoria 17
-20:01 3 marcus
-20:34 2 gregory 25
-21:39 1 emma
-23:44 4 alexa
+3
+10:01 22:11
+9
+00:24 3 theresa
+00:39 4 kaitlin
+00:40 1 theresa
+00:49 4 cynthia
+01:20 4 robert
+01:45 4 robert
+02:07 4 hannah
+02:13 2 anna 2
+04:00 1 theresa
+04:04 4 adam
+04:28 1 robert
+04:42 2 robert 3
+05:32 2 hannah 3
+05:37 1 anna
+06:19 2 hannah 1
+06:28 1 adam
+06:36 3 theresa
+06:47 1 adam
+07:01 2 adam 2
+07:32 1 robert
+07:41 1 christine
+07:52 4 cynthia
+08:11 4 hannah
+08:41 1 theresa
+08:45 3 christine
+09:22 2 robert 2
+09:40 4 christine
+10:15 3 robert
+10:19 3 christine
+10:55 1 robert
+11:15 1 kaitlin
+11:23 2 adam 2
+11:40 4 anna
+12:23 3 hannah
+14:12 1 robert
+14:55 2 theresa 2
+15:13 1 christine
+15:16 4 cynthia
+15:31 1 robert
+15:33 4 anna
+16:43 1 adam
+16:59 1 hannah
+17:02 4 christine
+17:27 3 christine
+17:52 2 robert 2
+18:13 3 cynthia
+18:23 4 robert
+18:37 3 kaitlin
+19:21 1 robert
+19:42 1 adam
+19:59 4 christine
+20:31 3 cynthia
+20:43 3 theresa
+20:45 3 robert
+21:08 2 cynthia 1
+21:56 3 kaitlin
+22:08 1 theresa
+22:09 4 theresa

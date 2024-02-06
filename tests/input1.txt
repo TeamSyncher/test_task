@@ -1,13 +1,47 @@
-48
-09:58 11:14
-34
-05:06 3 austin
-06:36 4 steven
-07:08 2 jennifer 15
-08:54 1 steven
-10:55 1 austin
-12:15 3 megan
-16:54 3 christopher
-17:26 1 lindsay
-19:40 4 corey
-23:19 4 darryl
+8
+15:34 19:21
+9
+00:18 2 william 2
+00:32 3 michaela
+00:33 1 michaela
+00:45 3 rebecca
+01:49 3 michaela
+03:20 2 william 8
+03:33 2 rebecca 5
+04:10 3 timothy
+04:49 3 sandra
+04:52 4 timothy
+04:58 3 michaela
+05:16 1 michelle
+06:15 4 sandra
+06:21 1 rebecca
+06:58 1 william
+07:38 3 michaela
+08:17 3 rebecca
+08:35 4 william
+08:51 4 michelle
+09:36 1 timothy
+09:36 2 william 1
+09:47 1 timothy
+09:50 1 william
+10:37 1 michaela
+11:38 3 michaela
+11:49 1 william
+11:51 3 rebecca
+11:56 3 sandra
+12:20 3 timothy
+13:55 2 rebecca 8
+14:05 3 william
+14:09 4 rebecca
+14:12 4 michelle
+14:23 2 michelle 7
+14:39 4 timothy
+14:54 4 michaela
+14:55 3 rebecca
+14:56 1 michelle
+15:22 4 michaela
+15:35 2 michelle 6
+15:50 4 william
+18:36 3 michelle
+18:55 3 sandra
+19:02 2 william 1

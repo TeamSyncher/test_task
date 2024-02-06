@@ -1,33 +1,69 @@
-43
-02:23 10:34
-12
-00:11 3 eric
-00:42 1 diana
-00:50 2 rebecca 39
-00:59 4 laura
-02:17 4 diana
-02:18 2 david 35
-04:07 3 rebecca
-05:51 4 mary
-07:11 1 danielle
-07:51 3 david
-08:09 1 mary
-08:39 1 david
-08:46 2 sean 3
-09:18 4 maria
-09:59 2 eric 13
-10:18 4 mary
-10:29 3 kenneth
-11:10 2 maria 29
-11:12 2 kenneth 29
-15:09 3 chad
-15:25 1 kenneth
-16:34 4 mary
-16:56 1 kenneth
-17:31 3 laura
-17:58 1 ryan
-20:23 2 maria 8
-20:40 4 rebecca
-21:16 4 rebecca
-22:54 4 ryan
-23:52 1 kenneth
+4
+03:59 19:29
+9
+00:22 3 jessica
+00:25 1 heather
+00:35 3 anthony
+00:49 1 heather
+00:49 4 anthony
+00:51 1 anthony
+01:10 3 anthony
+01:31 4 heather
+01:37 3 brandy
+02:15 3 anthony
+02:24 3 heather
+02:27 2 anthony 1
+02:58 2 anthony 4
+03:57 4 brandy
+03:58 1 jessica
+04:08 3 jessica
+04:24 4 heather
+04:55 1 heather
+04:57 3 jessica
+05:02 1 jessica
+05:03 4 anthony
+05:17 2 brandy 4
+05:38 3 anthony
+05:43 3 jessica
+05:45 2 jessica 1
+05:47 2 brandy 1
+06:13 2 anthony 2
+06:13 3 anthony
+06:16 3 jessica
+06:41 4 anthony
+07:13 1 brandy
+08:35 1 jessica
+08:39 3 anthony
+09:38 2 jessica 3
+10:30 2 heather 4
+10:32 2 jessica 3
+10:38 3 brandy
+10:58 2 jessica 1
+11:07 2 jessica 1
+11:30 2 anthony 1
+12:16 4 heather
+12:19 1 anthony
+12:37 1 anthony
+12:41 3 heather
+12:42 4 jessica
+12:43 2 heather 2
+13:05 4 brandy
+13:35 3 anthony
+14:12 1 anthony
+14:25 1 brandy
+14:30 3 anthony
+14:43 3 anthony
+14:52 3 brandy
+14:59 1 heather
+15:18 3 anthony
+15:44 2 jessica 1
+15:50 1 brandy
+16:00 1 anthony
+17:43 2 heather 4
+18:04 2 anthony 4
+18:04 1 jessica
+18:27 2 heather 2
+18:38 4 anthony
+18:44 2 brandy 2
+18:50 3 brandy
+19:26 4 brandy

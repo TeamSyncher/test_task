@@ -1,26 +1,70 @@
-43
-21:12 21:30
-36
-00:31 2 erica 12
-03:24 2 cassandra 23
-03:41 1 sheila
-04:23 1 jeanette
-06:15 1 leah
-07:00 4 anne
-07:45 3 sheila
-08:59 3 cassandra
-10:42 1 erica
-11:37 3 erica
-13:22 3 denise
-14:11 3 kiara
-15:10 4 noah
-15:40 1 erica
-15:41 1 stacy
-15:51 1 jeanette
-17:12 4 leah
-19:59 2 anna 24
-20:55 4 carol
-21:45 1 hannah
-22:12 2 jeremy 31
-23:31 2 erica 40
-23:58 3 jeffrey
+8
+08:19 08:36
+3
+00:04 4 debra
+00:06 4 lauren
+00:07 4 lauren
+00:22 2 lauren 5
+00:23 4 lauren
+00:24 1 lauren
+00:30 3 corey
+01:13 1 melissa
+01:21 1 debra
+01:29 2 debra 3
+01:32 4 angela
+01:34 4 angela
+01:39 1 lauren
+01:44 4 corey
+01:47 1 melissa
+01:56 4 corey
+01:57 1 angela
+02:03 2 lauren 6
+02:07 2 debra 1
+02:12 2 angela 1
+02:16 2 angela 6
+02:21 1 melissa
+02:23 3 melissa
+02:28 3 debra
+02:38 4 melissa
+02:39 3 lauren
+02:50 2 lauren 1
+02:52 1 corey
+02:55 3 angela
+03:17 4 debra
+03:47 1 melissa
+03:50 2 angela 1
+04:04 2 debra 3
+04:05 3 lauren
+04:05 4 lauren
+04:08 3 corey
+04:09 4 lauren
+04:11 2 angela 3
+04:25 4 corey
+04:33 3 corey
+04:38 1 lauren
+04:48 2 debra 4
+05:07 1 melissa
+05:08 2 debra 4
+05:34 3 lauren
+05:40 2 corey 6
+05:43 4 corey
+05:48 2 angela 3
+05:57 4 debra
+06:25 4 corey
+06:25 2 melissa 6
+06:30 3 debra
+06:38 3 debra
+06:45 1 lauren
+06:50 3 lauren
+06:51 1 corey
+06:52 1 angela
+07:15 2 angela 2
+07:17 4 melissa
+07:33 4 lauren
+07:45 4 melissa
+07:53 1 lauren
+08:03 2 melissa 8
+08:12 1 melissa
+08:14 1 corey
+08:18 2 corey 8
+08:32 2 angela 1

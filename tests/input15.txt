@@ -1,22 +1,51 @@
-30
-12:31 17:50
-12
-00:30 2 vincent 16
-01:01 1 claudia
-03:34 4 tamara
-04:46 3 cynthia
-04:49 2 jeanne 5
-05:51 1 autumn
-06:47 1 larry
-07:01 4 tamara
-07:17 4 larry
-09:19 4 jeanne
-09:34 3 autumn
-09:55 2 vincent 2
-10:17 3 cynthia
-13:30 3 larry
-14:18 1 tristan
-15:34 1 kristina
-17:00 3 cynthia
-18:10 4 cynthia
-19:17 4 claudia
+2
+12:14 20:49
+2
+01:06 2 yolanda 2
+01:37 2 sue 1
+01:45 3 veronica
+02:09 2 jonathan 1
+02:16 1 veronica
+02:57 3 sue
+02:59 3 sue
+03:10 1 sue
+04:30 1 jonathan
+04:46 3 yolanda
+05:20 4 sue
+05:30 4 yolanda
+05:36 4 jeremy
+06:25 1 sue
+06:54 1 jonathan
+06:57 1 yolanda
+06:57 3 jonathan
+08:05 3 yolanda
+08:10 1 sue
+08:23 1 jeremy
+08:28 1 jeremy
+08:30 4 sue
+08:31 2 yolanda 2
+08:51 3 jonathan
+09:24 2 jeremy 1
+10:39 4 jonathan
+11:10 2 yolanda 1
+12:01 1 sue
+12:14 4 veronica
+12:46 3 jonathan
+13:32 3 jeremy
+13:34 2 jeremy 1
+13:40 1 yolanda
+13:54 4 sue
+13:57 3 sue
+14:16 3 yolanda
+14:25 4 veronica
+15:41 3 yolanda
+16:56 2 veronica 2
+16:58 4 yolanda
+17:28 1 yolanda
+17:31 3 veronica
+18:26 1 sue
+18:51 4 jonathan
+18:52 3 yolanda
+19:02 2 jonathan 1
+19:13 4 sue
+19:40 2 veronica 1

@@ -1,18 +1,78 @@
-28
-02:18 07:24
-18
-00:33 3 cheryl
-01:25 2 elaine 16
-04:21 4 kim
-09:02 2 belinda 9
-09:15 3 carlos
-11:35 3 bob
-13:50 4 cody
-14:00 4 carlos
-14:17 1 wayne
-15:10 1 wayne
-18:31 4 cheryl
-18:32 3 ricardo
-18:48 2 ricardo 8
-21:07 3 christian
-22:00 3 ricardo
+10
+10:13 21:56
+5
+00:10 1 edward
+00:27 1 lori
+00:49 3 edward
+00:52 2 valerie 6
+01:06 3 lori
+01:36 3 lori
+02:01 2 lori 2
+02:03 2 valerie 8
+02:35 2 edward 6
+02:45 2 lori 1
+03:00 3 sarah
+03:09 2 sarah 9
+03:42 1 jesse
+03:42 3 jesse
+03:59 3 valerie
+04:20 1 lori
+04:35 2 lori 9
+05:09 1 lori
+05:58 2 edward 10
+06:19 1 edward
+06:53 4 valerie
+06:59 1 jesse
+07:01 1 edward
+07:20 2 edward 6
+07:27 2 valerie 8
+07:33 3 valerie
+07:46 3 lori
+07:55 3 lori
+08:37 2 jesse 3
+08:47 1 jesse
+08:51 2 lori 6
+09:19 1 valerie
+09:33 4 jesse
+09:33 2 sarah 8
+09:45 4 valerie
+09:56 2 edward 5
+09:58 1 valerie
+10:02 1 edward
+10:06 2 edward 3
+11:29 2 edward 5
+12:50 4 sarah
+12:57 1 lori
+13:04 2 lori 5
+13:44 1 edward
+13:44 1 sarah
+13:45 1 lori
+14:09 3 lori
+14:14 3 edward
+14:31 1 lori
+14:44 2 lori 8
+15:02 1 sarah
+15:38 3 edward
+15:50 3 sarah
+15:52 2 sarah 6
+16:17 3 edward
+16:29 2 lori 1
+17:40 1 lori
+17:47 1 valerie
+17:58 2 jesse 1
+18:14 3 sarah
+18:19 3 sarah
+19:12 3 sarah
+19:15 4 valerie
+19:15 4 lori
+19:41 1 valerie
+20:06 2 jesse 9
+20:07 1 lori
+20:21 1 jesse
+20:29 2 sarah 5
+20:31 2 edward 7
+20:38 3 lori
+20:42 2 lori 5
+21:12 4 jesse
+21:49 4 edward
+21:54 4 edward

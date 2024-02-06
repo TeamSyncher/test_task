@@ -1,27 +1,67 @@
-45
-19:01 23:34
-10
-00:14 4 justin
-01:19 1 cassie
-01:41 4 micheal
-01:56 1 jonathan
-02:02 4 jeffery
-05:07 1 jeffery
-05:26 2 jonathan 40
-05:32 3 micheal
-06:19 1 keith
-06:44 1 ashley
-07:14 1 jessica
-07:38 2 cassie 25
-09:53 1 ricky
-11:24 4 ashley
-12:19 3 ricky
-13:55 4 brandy
-16:13 4 ricky
-19:32 4 jeffery
-20:05 2 ivan 25
-22:09 3 jonathan
-22:23 2 jeffery 42
-23:03 1 jessica
-23:33 4 ashley
-23:42 1 jessica
+8
+04:28 22:20
+6
+00:19 4 katherine
+00:46 2 sara 3
+02:24 3 christopher
+02:29 1 donna
+02:38 2 katherine 2
+02:40 2 christopher 7
+02:43 1 brianna
+02:46 2 brianna 4
+02:59 4 christopher
+03:18 4 donna
+03:24 2 donna 7
+03:30 3 donna
+03:36 3 christopher
+04:23 1 donna
+04:27 3 brianna
+04:38 1 brianna
+04:47 2 brianna 6
+04:57 4 brianna
+05:02 2 brianna 2
+05:15 4 donna
+06:25 3 katherine
+06:33 4 brianna
+06:39 3 katherine
+06:44 1 katherine
+06:48 3 katherine
+07:33 4 katherine
+07:36 4 christopher
+07:47 4 brianna
+08:02 2 christopher 8
+08:08 3 donna
+08:10 3 katherine
+08:14 2 brianna 2
+08:24 3 brianna
+08:58 1 donna
+09:13 2 katherine 5
+09:44 4 christopher
+10:12 3 donna
+11:17 4 brianna
+11:25 3 brianna
+12:11 2 katherine 1
+12:51 1 sara
+13:01 1 donna
+13:06 3 donna
+13:49 3 christopher
+14:14 4 christopher
+14:49 4 christopher
+15:22 3 donna
+15:27 4 sara
+16:28 4 brianna
+16:28 1 brianna
+16:39 4 christopher
+16:44 1 sara
+16:58 4 christopher
+18:07 4 christopher
+19:40 1 brianna
+19:56 3 sara
+20:35 1 brianna
+20:41 2 brianna 2
+20:46 4 christopher
+21:13 3 brianna
+21:25 2 sara 1
+21:40 4 sara
+21:43 2 christopher 2
+21:46 2 katherine 3

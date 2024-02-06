@@ -1,16 +1,60 @@
-48
-07:15 19:27
-13
-01:43 4 jean
-04:24 1 laurie
-04:51 2 suzanne 46
-05:43 3 jean
-06:14 3 suzanne
-08:04 3 dawn
-09:34 2 suzanne 21
-10:00 1 peggy
-14:54 2 zachary 18
-16:05 3 craig
-17:45 3 craig
-20:27 3 alice
-21:13 1 jean
+6
+00:02 11:31
+6
+00:06 1 gail
+00:08 3 ronald
+00:13 2 kathryn 5
+00:16 3 amanda
+00:24 3 tina
+00:27 3 ronald
+00:29 2 kathryn 5
+00:44 1 ronald
+00:56 3 amanda
+01:06 4 ronald
+01:07 1 tina
+01:12 1 tina
+01:12 1 nicholas
+01:30 2 amanda 5
+01:36 4 ronald
+02:14 1 tina
+02:17 2 nicholas 2
+02:36 4 gail
+02:48 4 kathryn
+02:51 2 tina 3
+03:01 1 nicholas
+03:03 1 nicholas
+03:09 4 gail
+03:13 1 ronald
+03:17 1 gail
+03:17 1 tina
+03:22 2 gail 6
+03:23 1 gail
+03:35 1 nicholas
+03:40 1 kathryn
+04:26 1 gail
+05:20 1 kathryn
+05:21 2 nicholas 1
+05:33 1 kathryn
+05:45 3 nicholas
+05:54 2 jeffery 3
+06:02 4 jeffery
+06:21 2 kathryn 3
+06:41 3 kathryn
+07:15 1 gail
+07:17 1 nicholas
+07:22 4 gail
+07:38 4 kathryn
+07:49 3 tina
+07:51 4 tina
+07:53 2 kathryn 3
+08:13 1 gail
+09:45 1 ronald
+10:01 2 kathryn 5
+10:16 2 nicholas 4
+10:18 1 jeffery
+10:28 4 tina
+10:34 3 nicholas
+10:37 3 jeffery
+10:41 1 kathryn
+10:58 3 tina
+11:27 4 gail

@@ -1,13 +1,60 @@
-30
-16:17 21:24
-17
-00:58 4 linda
-09:35 2 sandra 24
-09:41 1 jesse
-12:28 3 april
-15:07 4 andrea
-19:25 4 jesse
-20:39 1 faith
-20:43 4 sandra
-22:43 3 linda
-23:48 1 jesse
+7
+03:53 08:40
+10
+00:02 3 james
+00:12 1 john
+00:22 1 james
+00:36 2 kelly 6
+00:37 3 kimberly
+00:43 4 carrie
+00:54 2 john 6
+00:54 2 carrie 7
+01:26 4 michael
+01:32 4 john
+01:34 2 carrie 3
+01:34 2 kelly 7
+01:41 2 michael 6
+01:46 3 michael
+01:51 3 john
+02:02 2 carrie 7
+02:23 3 michael
+02:42 3 james
+02:46 3 james
+02:51 4 john
+02:52 2 james 5
+02:58 3 michael
+03:10 4 john
+03:10 3 kelly
+03:15 2 john 4
+03:19 2 kelly 4
+03:26 2 kimberly 4
+03:43 2 john 3
+04:00 1 kelly
+04:05 4 john
+04:14 3 john
+04:26 3 kimberly
+04:51 3 carrie
+04:55 1 kelly
+05:15 4 kelly
+05:17 2 carrie 7
+05:20 2 kimberly 3
+05:23 4 carrie
+05:24 1 michael
+05:31 3 james
+05:56 1 carrie
+06:05 3 kelly
+06:16 4 michael
+06:29 4 kimberly
+06:44 4 john
+06:47 3 kelly
+06:55 4 john
+07:01 4 john
+07:10 4 michael
+07:12 2 james 3
+07:21 4 michael
+07:24 3 kimberly
+07:41 1 james
+08:00 3 kimberly
+08:01 3 john
+08:20 3 kimberly
+08:22 2 kelly 2

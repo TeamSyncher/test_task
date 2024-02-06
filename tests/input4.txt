@@ -1,31 +1,52 @@
-50
-02:52 22:35
-11
-00:20 1 george
-00:26 1 frederick
-00:51 1 elizabeth
-01:24 4 ruth
-03:47 4 frederick
-03:51 3 dominic
-04:24 1 ruth
-05:35 1 brandon
-05:44 3 bill
-06:24 1 stephanie
-07:54 3 bruce
-08:04 3 george
-11:20 3 ruth
-11:31 3 amy
-11:39 3 dustin
-14:25 4 mark
-14:55 3 dominic
-15:10 1 james
-17:11 4 amy
-17:34 3 amy
-18:47 3 dustin
-19:18 3 brandon
-19:38 2 stephanie 47
-19:58 1 ruth
-20:13 2 peter 36
-20:49 1 ruth
-22:10 2 brandon 31
-23:54 3 james
+4
+08:38 22:45
+4
+00:04 3 richard
+01:01 4 lucas
+01:07 1 richard
+01:08 1 richard
+02:13 1 emily
+02:40 2 lucas 4
+03:01 3 emily
+03:28 2 betty 2
+03:39 3 lucas
+04:32 3 richard
+04:45 4 richard
+05:36 2 betty 2
+05:51 1 lucas
+06:03 3 richard
+06:36 4 lucas
+06:47 3 lucas
+07:09 2 richard 2
+07:21 3 emily
+07:24 3 lucas
+07:49 4 betty
+07:50 4 richard
+08:07 3 lucas
+08:27 1 emily
+09:31 2 lucas 4
+10:07 3 emily
+10:08 2 betty 3
+10:30 2 emily 2
+10:50 4 betty
+11:29 4 emily
+12:33 1 lucas
+13:08 2 richard 1
+13:15 2 betty 2
+16:33 1 lucas
+17:27 2 richard 4
+17:37 1 richard
+18:09 4 betty
+18:46 2 richard 1
+19:13 2 richard 1
+19:29 4 betty
+19:38 4 emily
+20:11 2 lucas 1
+20:31 1 emily
+20:37 2 lucas 3
+20:42 2 richard 1
+21:18 3 emily
+21:19 2 richard 3
+21:50 1 lucas
+22:22 1 emily
+22:23 4 betty

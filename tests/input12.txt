@@ -1,26 +1,52 @@
+2
+00:44 03:27
 1
-21:51 21:57
-6
-00:03 3 nicole
-02:45 1 jose
-04:54 1 rita
-06:38 3 bryan
-06:59 4 stacey
-07:27 3 anthony
-07:28 3 cindy
-07:33 3 bryan
-09:05 2 chelsea 1
-10:25 3 katherine
-10:34 1 jerry
-11:44 2 nicole 1
-13:29 4 alex
-14:25 2 jason 1
-14:50 2 cindy 1
-14:53 1 jerome
-15:58 1 helen
-17:33 1 kelsey
-18:41 3 stacey
-19:27 3 jose
-22:27 3 stacey
-23:13 2 patricia 1
-23:55 2 jerome 1
+00:04 3 patrick
+00:08 2 taylor 2
+00:10 4 wyatt
+00:13 2 patrick 2
+00:13 1 patrick
+00:16 1 joseph
+00:19 4 wyatt
+00:20 4 wyatt
+00:21 4 taylor
+00:26 4 taylor
+00:43 2 joseph 1
+00:43 3 patrick
+00:48 3 patrick
+00:50 4 wyatt
+01:00 3 joseph
+01:00 4 cameron
+01:02 1 joseph
+01:04 2 patrick 1
+01:06 1 patrick
+01:07 1 taylor
+01:07 1 cameron
+01:12 3 wyatt
+01:16 1 joseph
+01:18 3 wyatt
+01:21 4 joseph
+01:31 2 wyatt 1
+01:35 2 patrick 2
+01:46 1 wyatt
+02:05 3 wyatt
+02:09 1 taylor
+02:12 1 wyatt
+02:12 1 patrick
+02:13 4 wyatt
+02:24 1 cameron
+02:31 4 joseph
+02:37 4 patrick
+02:38 4 joseph
+02:40 1 taylor
+02:41 1 patrick
+02:50 4 joseph
+02:52 3 taylor
+02:55 2 cameron 2
+02:57 1 patrick
+03:06 2 joseph 1
+03:09 1 patrick
+03:15 1 wyatt
+03:24 3 joseph
+03:24 2 patrick 1
+03:27 1 patrick
